@@ -1,1 +1,1 @@
-# HashMap
+# JavaPractice
